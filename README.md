@@ -43,3 +43,25 @@ While the **SEMANTIKOS Core** is open-source under GPL v3, we provide specialize
 
 **For inquiries regarding commercial use or design partnerships, please contact:**
 SEMANTIKOS4267@proton.me
+
+
+
+## ⚖️ Commercial & Hardware Licensing (AICS Chip)
+
+The **SEMANTIKOS Verification Engine** is offered under a dual-licensing model to accommodate both open-source innovation and industrial-scale hardware deployment.
+
+### 1. Open Source (GPL v3)
+The core software logic is provided for public audit and non-commercial academic use. Any derivative works must remain open-source under the same terms.
+
+### 2. Enterprise & Hardware Partnership (Proprietary)
+The **AICS (Architectural Intelligence Consciousness System) Chip** architecture and Phase 2/3 native generation engines are **PATENT PENDING** and are NOT covered by the GPL v3 license. Commercial use, silicon integration, or "closed-source" deployment requires a separate **Commercial License Agreement**.
+
+**Strategic Partnership Opportunities for Semiconductor Firms (NVIDIA, Intel, AMD, ARM):**
+We are currently seeking 3-5 Tier-1 Design Partners for the AICS Alpha program.
+* **IP Licensing:** Integration of Semantikos verification logic into existing GPU/TPU pipelines.
+* **Custom Silicon:** Collaborative development of the standalone AICS verification chip.
+* **Verification-as-a-Service:** Cloud-level hardware-enforced truth for enterprise LLM clusters.
+
+**For Partnership & Licensing Inquiries:**
+Don't hesitate to get in touch with Gregory Hernandez (Founder) at: * SEMANTIKOS4267@proton.me *
+*A Mutual NDA is required for access to unredacted hardware specifications.*
