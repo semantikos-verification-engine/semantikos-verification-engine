@@ -65,3 +65,8 @@ We are currently seeking 3-5 Tier-1 Design Partners for the AICS Alpha program.
 **For Partnership & Licensing Inquiries:**
 Don't hesitate to get in touch with Gregory Hernandez (Founder) at: * SEMANTIKOS4267@proton.me *
 *A Mutual NDA is required for access to unredacted hardware specifications.*
+
+⚖️ Commercial & Hardware Licensing (AICS Chip)
+AICS CHIP ARCHITECTURE - PATENT PENDING
+
+Strategic Partnership Opportunities (NVIDIA, Intel, AMD, ARM). Contact: SEMANTIKOS4267@proton.me
