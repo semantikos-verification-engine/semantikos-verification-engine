@@ -31,4 +31,4 @@ SEMANTIKOS is committed to the open-source community while protecting our core i
 * **Commercial & Enterprise:** For organizations requiring a proprietary license or access to our advanced **Semantic Formula Framework** (Phase 2 & 3), please contact our team.
 
 ---
-**Contact:** [INSERT YOUR EMAIL HERE]
+**Contact:** SEMANTIKOS4267@proton.me
