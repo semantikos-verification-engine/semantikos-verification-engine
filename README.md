@@ -32,3 +32,14 @@ SEMANTIKOS is committed to the open-source community while protecting our core i
 
 ---
 **Contact:** SEMANTIKOS4267@proton.me
+
+## 💼 Commercial Licensing & Partnerships
+
+While the **SEMANTIKOS Core** is open-source under GPL v3, we provide specialized solutions for enterprise partners:
+
+* **Commercial Licensing:** For organizations that wish to integrate the Semantikos Verification Engine into proprietary, "closed-source" software.
+* **Phase 2 Access:** Access to the advanced **Semantic Formula Framework** for complex logical verification.
+* **Custom Integration:** Professional services to map our "Layered Rings" to your specific industry data (Legal, Healthcare, Finance).
+
+**For inquiries regarding commercial use or design partnerships, please contact:**
+SEMANTIKOS4267@proton.me
