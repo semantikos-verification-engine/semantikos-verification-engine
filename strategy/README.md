@@ -1,3 +1,10 @@
+⚠️ PROPRIETARY FRAMEWORK – PATENT PENDING
+
+The documents in this folder are subject to the SEMANTIKOS Intellectual Property Roadmap. While the core software verification logic is available for open-source use under the GPL v3, the hardware architecture (AICS Chip) and foundational innovations are available only for Commercial Licensing. Unauthorized commercial use of these concepts is strictly prohibited.
+
+
+
+
 # SEMANTIKOS: Architectural Intelligence
 ### "Making Truth Structural, Not Statistical."
 
